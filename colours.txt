@@ -1,2 +1,3 @@
 a file for colours
+red
 blue
