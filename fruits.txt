@@ -3,3 +3,5 @@ banana
 cherries
 dragon fruits
 figs
+durian
+mango
